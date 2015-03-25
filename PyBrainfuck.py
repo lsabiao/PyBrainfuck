@@ -140,7 +140,7 @@ def procurarLoop():
 
 def validarCelula():
     #python não suporta variáveis como byte.
-    #workarround
+    #workaround
 
     global estrutura
     global ponteiro
