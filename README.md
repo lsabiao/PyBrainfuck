@@ -16,7 +16,7 @@ run the "Hello World" Brainfuck program
 # PyBrainfuck
 Só um interpretador de Brainfuck escrito em python
 
-###usos:
+###Usos:
 
 *python PyBrainfuck.py* -
 escreva seu programa aqui e o execute
