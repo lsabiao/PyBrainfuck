@@ -26,3 +26,6 @@ executa um arquivo brainfuck (.bf)
 
 *python PyBrainfuck.py exemplo* -
 executa um programa "Hello world" feito em Brainfuck
+
+
+![wtfpl](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png)
