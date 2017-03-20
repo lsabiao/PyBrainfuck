@@ -1,7 +1,7 @@
 # PyBrainfuck
 Just a Brainfuck interpreter writen in Python
 
-###Uses:
+### Uses:
 
 *python PyBrainfuck.py* -
 write your Brainfuck program here then run it.
@@ -16,7 +16,7 @@ run the "Hello World" Brainfuck program
 # PyBrainfuck
 Só um interpretador de Brainfuck escrito em python :)
 
-###Usos:
+### Usos:
 
 *python PyBrainfuck.py* -
 escreva seu programa aqui e o execute
